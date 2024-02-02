@@ -16,8 +16,8 @@ git clone git@github.com:meerkat501/JATE.git
 Then cd into jate
 
 2. **Install the dependencies**
-Run npm install
-Then run the command npm run start
+Run npm install. 
+Then run the command npm run start.
 
 This will launch JATE in your web browser on http://localhost:3000
 
